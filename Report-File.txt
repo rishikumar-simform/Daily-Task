@@ -1,4 +1,4 @@
 Date 8-Jan 
 * Created github account 
 * did the first commit in the github
-
+* learn the onboarding in lms
